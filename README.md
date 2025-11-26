@@ -10,3 +10,30 @@ It is based on the Kaggle competition:
 <i>🔗 https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use</i>
 
 ***
+<pre>
+<b>
+📑 Table of Contents
+
+🌟 Objectives
+
+📦 Dataset
+
+🗂️ Repository Structure
+
+🧹 Data Preparation
+
+🏗️ Feature Engineering
+
+🤖 Modeling
+
+📊 Results
+
+⚠️ Limitations
+
+🚀 Future Work
+
+📝 License
+
+📚 References
+</b>
+</pre>

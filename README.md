@@ -10,10 +10,11 @@ It is based on the Kaggle competition:
 <i>🔗 https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use</i>
 
 ***
-<pre>
+
 
 <b>📑 Table of Contents</b>
 
+<pre>
 🌟 Objectives
 
 📦 Dataset

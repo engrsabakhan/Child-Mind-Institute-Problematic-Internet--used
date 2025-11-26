@@ -39,6 +39,7 @@ It is based on the Kaggle competition:
 
 </pre>
 
+***
 <b>🌟 Objectives</b>
 
 Predict SII (0–3) using survey, physical, and actigraphy data.
@@ -50,3 +51,18 @@ Create a reproducible ML workflow: EDA → Processing → Modeling → Evaluatio
 Benchmark multiple ML models and ensembles.
 
 Produce a clean, competition-ready pipeline.
+***
+<b>📦 Dataset</b>
+
+📁 Files Provided
+
+<i>train.csv, test.csv, sample_submission.csv
+
+series_train.parquet/id=XX/*.parquet (accelerometer)
+
+series_test.parquet/id=XX/*.parquet</i>
+***
+<b>🎯 Target</b>
+
+<i>SII Score — categorical scale from 0 → 3
+(indicating problematic internet use severity)</i>

@@ -152,6 +152,8 @@ Out-of-fold predictions
 
 Threshold tuning for best ordinal classification</i>
 ***
+<b>📊 Results</b>
+
 <table style="border-collapse: collapse; width: 100%; max-width: 800px; font-family: Arial, Helvetica, sans-serif;">
   <thead>
     <tr>

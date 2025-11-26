@@ -84,3 +84,70 @@ series_test.parquet/id=XX/*.parquet</i>
 
 </pre>
 ***
+<b>🧹 Data Preparation</b>
+
+🟦 Tabular Data</i>
+
+<i>Standardization
+
+Handling missing values
+
+Outlier detection
+
+Encoding categorical features
+
+Scaling physical metrics</i>
+
+🟩 Time-Series (Actigraphy)
+
+<i>Loading participant-wise parquet files
+
+Non-wear detection
+
+Aggregated per-user features:
+
+Mean/Std
+
+Skewness/Kurtosis
+
+ENMO (activity proxy)
+
+Daily movement/sleep indicators</i>
+
+➡️ All extracted features merged into final training table.
+
+***
+
+<b>🏗️ Feature Engineering</b>
+
+1.BMI, waist ratios, BIA features
+
+2.Internet use hours/day
+
+3.Activity intensity patterns
+
+4.Sleep efficiency indicators
+
+5.Percentile-based movement metrics
+
+6.Model-based feature importance for selection
+***
+<b>🤖 Modeling</b>
+
+✔️ Approaches Tried
+
+<i>LightGBM
+
+XGBoost
+
+CatBoost
+
+Voting Ensemble</i>
+
+✔️ Training Strategy
+
+<i>5-fold stratified CV
+
+Out-of-fold predictions
+
+Threshold tuning for best ordinal classification</i>

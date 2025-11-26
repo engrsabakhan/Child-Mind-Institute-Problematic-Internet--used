@@ -151,3 +151,51 @@ Voting Ensemble</i>
 Out-of-fold predictions
 
 Threshold tuning for best ordinal classification</i>
+***
+<table style="border-collapse: collapse; width: 100%; max-width: 800px; font-family: Arial, Helvetica, sans-serif;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left; background:#f3f4f6;">Model</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: right; background:#f3f4f6;">Accuracy</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: right; background:#f3f4f6;">Precision</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: right; background:#f3f4f6;">Recall</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: right; background:#f3f4f6;">F1-Score</th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: right; background:#f3f4f6;">Cohen Kappa</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">CatBoost</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.3289</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.34</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.33</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.325</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.10</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">XGBoost</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.4066</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.41</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.40</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.40</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.16</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">LightGBM</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.4794</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.48</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.48</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.47</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.21</td>
+    </tr>
+    <tr style="font-weight: 700; background:#f9fafb;">
+      <td style="border: 1px solid #ddd; padding: 8px;">Voting Ensemble</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.5474</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.5946</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.5474</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.5387</td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: right;">0.3465</td>
+    </tr>
+  </tbody>
+</table>
+***

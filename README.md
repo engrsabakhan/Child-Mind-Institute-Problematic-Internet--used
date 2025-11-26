@@ -66,3 +66,21 @@ series_test.parquet/id=XX/*.parquet</i>
 
 <i>SII Score — categorical scale from 0 → 3
 (indicating problematic internet use severity)</i>
+
+***
+<b>🗂️ Repository Structure</b>
+
+<pre>
+  .
+├── Dataset/
+│   └── Dataset link.txt
+├── Notebook/
+│   └── child_mind.py
+├── References/
+│   └── data dictionary.pdf
+├── Requirements.txt
+├── LICENSE
+└── README.md
+
+</pre>
+***

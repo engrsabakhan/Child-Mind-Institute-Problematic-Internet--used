@@ -228,3 +228,16 @@ SHAP-based explainability
 
 Hierarchical modeling by age groups
 ***
+<b>📝 License</b>
+
+This project is licensed under the MIT License.
+See the LICENSE file.
+***
+<b>📚 References</b>
+
+Kaggle Competition: Child Mind Institute — Problematic Internet Use
+
+Actigraphy & adolescent behavior research
+
+Data documentation (included in /References)
+***

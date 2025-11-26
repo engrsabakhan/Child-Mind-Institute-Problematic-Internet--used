@@ -38,3 +38,15 @@ It is based on the Kaggle competition:
 📚 References
 
 </pre>
+
+<b>🌟 Objectives</b>
+
+Predict SII (0–3) using survey, physical, and actigraphy data.
+
+Understand relationships between activity/sleep and internet behavior.
+
+Create a reproducible ML workflow: EDA → Processing → Modeling → Evaluation.
+
+Benchmark multiple ML models and ensembles.
+
+Produce a clean, competition-ready pipeline.

@@ -200,4 +200,31 @@ Threshold tuning for best ordinal classification</i>
     </tr>
   </tbody>
 </table>
+
+***
+<b>⚠️ Limitations</b>
+
+<i>Missingness in demographic & behavioral variables
+
+Sensor noise from accelerometers
+
+Class imbalance across SII
+
+Cross-sectional nature limits causal inference
+
+Variability in wear-time may affect feature reliability</i>
+
+reliability
+***
+<b>🚀 Future Work</b>
+
+Ordinal regression models
+
+Deep learning on sequences (1D-CNN, Transformers)
+
+Improved sleep cycle modeling
+
+SHAP-based explainability
+
+Hierarchical modeling by age groups
 ***

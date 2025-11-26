@@ -11,8 +11,8 @@ It is based on the Kaggle competition:
 
 ***
 <pre>
-<b>
-📑 Table of Contents
+
+<b>📑 Table of Contents</b>
 
 🌟 Objectives
 
@@ -35,5 +35,5 @@ It is based on the Kaggle competition:
 📝 License
 
 📚 References
-</b>
+
 </pre>
